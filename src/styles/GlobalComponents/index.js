@@ -117,7 +117,7 @@ export const SectionSubText = styled.p`
   }
 `
 export const SecondaryBtn = styled.button`
-  color: #FFF;
+  color: #FFF ;
   background: none;
   border: 1px solid rgba(255, 255, 255, 0.33);
   box-sizing: border-box;
